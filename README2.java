@@ -1,6 +1,6 @@
 # VIJAY-R
 import java.util.*;
-public class README1
+public class README2
 {
 public static void main(String[] args)
 {
