@@ -6,6 +6,6 @@ public static void main(String[] args)
 {
 Scanner sc = new Scanner(System.in);
 String a = sc.next();
-System.out.print(a.reverse());
+System.out.print(new StringBuffer(a).reverse());
 }
 }
